@@ -32,6 +32,20 @@
             "label": "Quote Content",
             "placeholder": ""
           }
+        },
+        "background_color": {
+          "type": "Color",
+          "config": {
+            "label": "Background Color",
+            "placeholder": ""
+          }
+        },
+        "text_color": {
+          "type": "Color",
+          "config": {
+            "label": "Text Color",
+            "placeholder": ""
+          }
         }
       },
       "items": {

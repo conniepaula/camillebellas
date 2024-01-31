@@ -35,6 +35,16 @@
 				"__TYPE__": "FieldContent",
 				"value": "fox",
 				"type": "Text"
+			},
+			"background_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#7370cd",
+				"type": "Color"
+			},
+			"text_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#ee2160",
+				"type": "Color"
 			}
 		},
 		"items": []

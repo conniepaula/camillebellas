@@ -12,6 +12,16 @@
 				"__TYPE__": "FieldContent",
 				"value": "stone",
 				"type": "Text"
+			},
+			"background_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#73262a",
+				"type": "Color"
+			},
+			"text_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#41b02b",
+				"type": "Color"
 			}
 		},
 		"items": []

@@ -17,6 +17,16 @@
 				"__TYPE__": "FieldContent",
 				"value": "liquid",
 				"type": "Text"
+			},
+			"background_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#1cf075",
+				"type": "Color"
+			},
+			"text_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#064dec",
+				"type": "Color"
 			}
 		},
 		"items": [
