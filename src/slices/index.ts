@@ -3,5 +3,8 @@
 import dynamic from "next/dynamic";
 
 export const components = {
+  contact: dynamic(() => import("./Contact")),
   hero: dynamic(() => import("./Hero")),
+  process: dynamic(() => import("./Process")),
+  work: dynamic(() => import("./Work")),
 };

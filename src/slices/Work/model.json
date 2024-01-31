@@ -1,0 +1,51 @@
+{
+  "id": "work",
+  "type": "SharedSlice",
+  "name": "Work",
+  "description": "Work",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "heading": {
+          "type": "Text",
+          "config": {
+            "label": "Heading",
+            "placeholder": ""
+          }
+        },
+        "quote_author": {
+          "type": "Text",
+          "config": {
+            "label": "Quote Author",
+            "placeholder": ""
+          }
+        },
+        "quote_content": {
+          "type": "Text",
+          "config": {
+            "label": "Quote Content",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "project": {
+          "type": "Link",
+          "config": {
+            "label": "Project",
+            "select": "document",
+            "customtypes": [
+              "project"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
